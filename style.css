@@ -46,3 +46,32 @@ nav ul li a{
     text-transform: capitalize;
     font-weight: bold;
 }
+
+nav ul li a:hover{
+    color: black;
+    transition:.4s;
+}
+
+.content{
+    position: absolute;
+    top:50%;
+    left:8%;
+    transform: translateY(-50%);
+}
+
+h1{
+    color:white;
+    margin:20px 0px 20px;
+    font-size: 75px;
+}
+
+h3{
+    color:white;
+    font-size:25px;
+    margin-bottom: 25px;
+}
+
+h4{
+    color:#0bbaec;
+    font-size: 20px;
+}
