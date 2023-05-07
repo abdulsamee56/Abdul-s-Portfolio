@@ -69,9 +69,96 @@ h3{
     color:white;
     font-size:25px;
     margin-bottom: 25px;
+    width: 600px;
 }
 
 h4{
     color:#0bbaec;
     font-size: 20px;
+}
+
+.about{
+    width: 100%;
+    padding:100px 0px;
+    background-color: #191919;
+}
+
+.about img{
+    height:auto;
+    width:430px;
+}
+
+.about-text{
+    width:550px;
+}
+
+.main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.about-text h2{
+    color: white;
+    font-size:75px;
+    text-transform: capitalize;
+    margin-bottom:20px;
+}
+
+.about-text h5{
+    color:white;
+    letter-spacing: 2px;
+    font-size: 22px;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+}
+
+.about-text p{
+    color:rgba(123, 220, 250, 0.8);
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size:18px;
+    margin-bottom: 45px;
+}
+
+.projects{
+    background: #101010;
+    width: 100%;
+    padding:100px 0px;
+}
+
+.Title h2{
+    color: white;
+    font-size: 75px;
+    width:1130px;
+    margin:30px auto;
+    text-align: center;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 400px;
+}
+
+.card{
+    height: 365px;
+    width:335px;
+    padding:20px 35px;
+    background:#191919;
+    border-radius: 20px;
+    margin:15px;
+    position: relative;
+    overflow:hidden;
+    text-align: center;
+}
+
+h5{
+    color:white;
+    font-size: 23px;
+    margin-bottom:15px;
 }
