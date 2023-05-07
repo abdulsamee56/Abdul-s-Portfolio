@@ -146,7 +146,7 @@ h4{
 }
 
 .card{
-    height: 365px;
+    height: 505px;
     width:335px;
     padding:20px 35px;
     background:#191919;
@@ -161,4 +161,22 @@ h5{
     color:white;
     font-size: 23px;
     margin-bottom:15px;
+}
+
+.pra{
+    color: #fcfc;
+    font-size:16px;
+    line-height: 27px;
+    margin-bottom: 25px;
+}
+
+.pimg{
+    width: 100%;
+    height:100%;
+}
+
+.limg{
+    width: 100%;
+    height:300px;
+
 }
