@@ -1,4 +1,5 @@
 # Abdul-s-Portfolio
+WARNING: NOT FULLY RESPONSIVE ON MOBILE JUST YET
 
 Introduction
 Welcome to my portfolio website! This website serves as a showcase of my skills, projects, and experiences as a junior computer science major at Wayne State University. It reflects my passion for full-stack development and demonstrates the range of technologies I am proficient in, including Javascript, CSS, HTML, C++, Python, and more. This README file provides an overview of the website's structure and content, and serves as a guide for navigating through the portfolio.
