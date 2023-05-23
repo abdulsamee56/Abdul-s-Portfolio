@@ -216,7 +216,7 @@ h5{
     color: white;
     font-weight: bold;
     font-size: 30px;
-    margin: 15px;
+    margin: 12px;
    
 
 }
@@ -224,7 +224,7 @@ h5{
 .contact-me a{
     text-decoration: none;
     color:#0bbaec;
-    line-height: 160%;
+    line-height: 120%;
 }
 
 .pro-link{
